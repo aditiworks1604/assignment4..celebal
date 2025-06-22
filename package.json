@@ -10,6 +10,16 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
-  }
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditiworks1604/assignment4..celebal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aditiworks1604/assignment4..celebal/issues"
+  },
+  "homepage": "https://github.com/aditiworks1604/assignment4..celebal#readme"
 }
